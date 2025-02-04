@@ -44,3 +44,4 @@ Què pretenem amb tot açò?
 |Fran|Fornet|
 |Ayoub|Ammari|
 |Salva|Martinez|
+|Ángela|Amor|
